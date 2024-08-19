@@ -1,6 +1,6 @@
 # AABI_2024
 
-Scripts to process and analysis data for the study: Global vegetation model growth sensitivity to climate significantly greater than observed
+Scripts to process and analysis data for the study: Observed non-linear response of tree growth to climate at continental scale not replicated by models
 
 Codes were prepared mainly using a mixture of R and Python during different developing periods.
 
